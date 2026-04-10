@@ -1,4 +1,4 @@
-### clock diagram code for Vnaira prototype with unity webGL
+### Block diagram code for Vnaira prototype with unity webGL
 ```mermaid
 graph TD
     subgraph Browser_Environment [Browser Environment]
