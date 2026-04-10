@@ -1,4 +1,4 @@
-### clock diagram code for Vnaira prototype with react webGL
+### Block diagram code for Vnaira prototype with react webGL
 ```mermaid
 graph TD
     subgraph Browser_Runtime [Browser Runtime: React Application]
